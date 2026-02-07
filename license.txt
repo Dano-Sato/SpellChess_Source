@@ -1,0 +1,14 @@
+The game's source code is opened for request under GNU GENERAL PUBLIC LICENSE Version 3 (GPL v3).
+Steamworks SDK is not linked with the whole source code.
+Steamworks SDK does is just a communication with a service that does not invoke the copyleft requirement of the GPL.
+
+This game makes use of the following open source technologies, which are available under the following licenses.
+
+pygame : https://www.pygame.org/wiki/about
+Stockfish Chess : https://github.com/official-stockfish/Stockfish
+python-chess :https://github.com/niklasf/python-chess
+stockfish(python wrapper):https://github.com/zhelyabuzhsky/stockfish
+
+Stockfish, python-chess is available under the GPL V3 License.
+pygame is available under the LGPL License.
+stockfish(python wrapper) is available under the MIT License.
